@@ -3,11 +3,6 @@
 <h3 align="center">
 ☕ Java Backend Developer | Spring Boot | Microservices | REST APIs
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohininavade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rohini-navade-03882b225">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -104,7 +99,7 @@ Working on enterprise applications using **Java, Spring Boot and microservice-ba
 
 ## 🔐 Security Clustered Platform
 
-Worked on an internal penetration testing platform focused on vulnerability scan and asset-related data.
+Worked testing platform focused on vulnerability scan and asset-related data.
 
 - 🚀 Developed **Spring Boot REST APIs**
 - 📊 Implemented pagination and filtering for **30K+ records**
