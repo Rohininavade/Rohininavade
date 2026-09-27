@@ -26,7 +26,7 @@
 
 Java Backend Developer with **2+ years of professional experience at Tata Consultancy Services (TCS)**, working on enterprise applications using **Java, Spring Boot, REST APIs, SQL, and microservices**.
 
-I enjoy building backend services, understanding how microservices communicate, working with messaging systems, debugging production issues, and continuously improving my backend development skills.
+I enjoy building backend services, understanding how microservices communicate, working with messaging systems, debugging issues, and continuously improving my backend development skills.
 
 - 📍 **Location:** India
 - 💼 **Experience:** 2+ Years | TCS
@@ -102,9 +102,7 @@ Working on enterprise applications using **Java, Spring Boot and microservice-ba
 
 ---
 
-## 🔐 Penetration Testing Platform
-
-### TCS Internal Project
+## 🔐 Security Clustered Platform
 
 Worked on an internal penetration testing platform focused on vulnerability scan and asset-related data.
 
@@ -260,21 +258,27 @@ I'm always interested in connecting with developers, recruiters and people worki
 
 ---
 
-## 🌟 Fun Facts
+## 🌱 A Little More About Me
 
-- 🎯 I enjoy breaking down complex backend concepts into simple ideas.
-- ☕ Java and Spring Boot are currently my main areas of focus.
-- 🧩 I enjoy understanding how different microservices communicate behind the scenes.
-- 🐞 Debugging an issue and finally finding the root cause is surprisingly satisfying!
-- 📚 Always learning something new about backend development.
-- 🚀 Working towards becoming a strong Java Backend Engineer.
+- 💡 I like understanding **why something works**, not just making it work.
+- 🔍 I enjoy tracing backend flows to understand how data moves between services.
+- 🧩 Microservices and messaging are areas I'm especially interested in exploring further.
+- 🐞 I actually enjoy the moment when a difficult bug finally starts making sense.
+- 📚 Currently focused on strengthening my Java, Spring Boot, DSA and system design fundamentals.
+- 🚀 Always looking for opportunities to build, experiment and improve.
 
 ---
 
-## ⭐ Thanks for Visiting!
+## 💬 Beyond the Code
 
-If you find any of my projects useful or interesting, feel free to ⭐ **star the repository**.
+I'm interested in learning from other developers, exploring real-world backend architectures, and building projects that help me understand concepts beyond just theory.
 
-Thanks for stopping by!
+If you're working with **Java, Spring Boot, Microservices or Backend Engineering**, I'd be happy to connect and exchange ideas.
 
-### Happy Coding 🚀☕
+---
+
+<p align="center">
+  <b>Thanks for checking out my profile! 👋</b>
+  <br>
+  <sub>Feel free to explore my repositories and see what I'm building.</sub>
+</p>
