@@ -1,137 +1,280 @@
-# 👋 Hi, I'm Rohini Navade!
+<h1 align="center">👋 Hey there, I'm Rohini Navade!</h1>
 
-### ☕ Java Backend Developer | Spring Boot | Microservices | REST APIs
+<h3 align="center">
+☕ Java Backend Developer | Spring Boot | Microservices | REST APIs
+</h3>
 
-Java Backend Developer with 2+ years of experience at Tata Consultancy Services (TCS), working on enterprise applications using Java, Spring Boot, REST APIs, SQL, and microservices.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohininavade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I enjoy building backend services, working with APIs and messaging systems, solving production issues, and learning how distributed enterprise applications work.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohini-navade-03882b225">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:navaderohini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rohininavade">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **2+ years of professional experience at Tata Consultancy Services (TCS)**
-- ☕ Working with **Java 8, Java 17 & Spring Boot**
-- 🔗 Experience developing and maintaining **REST APIs**
-- 🧩 Working in **microservice-based environments**
-- 📨 Experience with **Azure Service Bus topic-based messaging**
-- 🗄️ Working with **SQL & PostgreSQL**
-- 🔐 Experience with **Spring Security, Authentication & Authorization**
-- 🐞 Production debugging and issue resolution
-- 📊 Pagination, filtering and large-data processing
-- 🛠️ Maven & Gradle-based projects
-- 🧪 JUnit & Mockito
+Java Backend Developer with **2+ years of professional experience at Tata Consultancy Services (TCS)**, working on enterprise applications using **Java, Spring Boot, REST APIs, SQL, and microservices**.
+
+I enjoy building backend services, understanding how microservices communicate, working with messaging systems, debugging production issues, and continuously improving my backend development skills.
+
+- 📍 **Location:** India
+- 💼 **Experience:** 2+ Years | TCS
+- 🎯 **Current Focus:** Java Backend Development | Spring Boot | Microservices
+- 📚 **Currently Learning:** Advanced Java | System Design | DSA | Distributed Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### ☕ Backend
+### ☕ Backend Development
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 
 ### 🧩 Microservices & Messaging
+
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
 ![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🗄️ Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-### 🔧 Tools & Build
+### 🔧 Build & Development Tools
+
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧪 Testing
+
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+
+---
+
+## 🎯 Expertise & Interests
+
+- ✅ **Java Backend Development** — Building backend services using Java and Spring Boot
+- ✅ **REST API Development** — Developing and maintaining REST APIs and backend business logic
+- ✅ **Microservices** — Working with service-to-service communication and microservice-based applications
+- ✅ **Messaging Systems** — Working with Azure Service Bus topics and publish/consume messaging flows
+- ✅ **Database & SQL** — Working with SQL, PostgreSQL, data retrieval, filtering and bulk data operations
+- ✅ **Authentication & Authorization** — Working with Spring Security, authentication and role-based access
+- ✅ **Large Data Processing** — Pagination, filtering and handling datasets with 30K+ records
+- ✅ **Production Debugging** — Investigating issues across APIs, service flows, message processing, configuration and backend logic
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🏢 Tata Consultancy Services — Systems Engineer
+
 **Aug 2024 – Present**
 
-Working on enterprise applications using Java, Spring Boot and microservice-based architectures.
+Working on enterprise applications using **Java, Spring Boot and microservice-based architectures**.
 
-- Developed and maintained backend services using **Java and Spring Boot**
-- Developed and maintained **REST APIs**
-- Worked with **Azure Service Bus topics** for publish/consume messaging flows
-- Worked with environment-specific Spring Boot configuration
-- Worked with **Maven and Gradle** projects
-- Investigated issues across APIs, service flows, message processing and backend logic
-- Worked on production issues involving **Spring Security, authentication and authorization**
-
-### 🔐 Security Clustered Application
-
-- Developed Spring Boot REST APIs for vulnerability scan and asset-related data
-- Implemented pagination and filtering for **30K+ records**
-- Worked on Excel upload/export functionality
-- Implemented PDF-based penetration-testing reports
-- Resolved authentication and role-based access issues using Spring Security
+- ☕ Developed and maintained backend services using **Java and Spring Boot**
+- 🔗 Developed and maintained **REST APIs**
+- 🧩 Worked in **microservice-based environments**
+- 📨 Worked with **Azure Service Bus topics** for publish/consume messaging flows
+- ⚙️ Worked with environment-specific Spring Boot configuration
+- 🔧 Worked with **Maven and Gradle** based projects
+- 🐞 Investigated issues across APIs, service flows, message processing and backend logic
+- 🔐 Worked on production issues involving **Spring Security, authentication and authorization**
+- 📊 Worked with pagination, filtering and large datasets
 
 ---
 
-## 📌 Personal Projects
+## 🔐 Penetration Testing Platform
+
+### TCS Internal Project
+
+Worked on an internal penetration testing platform focused on vulnerability scan and asset-related data.
+
+- 🚀 Developed **Spring Boot REST APIs**
+- 📊 Implemented pagination and filtering for **30K+ records**
+- 📁 Worked on Excel upload and export functionality
+- 📄 Implemented PDF-based penetration-testing reports
+- 🔐 Worked on authentication and role-based access using **Spring Security**
+- 🗄️ Worked with PostgreSQL and SQL for backend data operations
+
+---
+
+## 📌 Featured Personal Project
 
 ### 💼 Job Portal Application
 
-A Spring Boot-based job portal application focused on backend development and role-based access.
+A Spring Boot-based job portal application focused on backend development, authentication and role-based access.
 
 **Technologies:**
-Java | Spring Boot | Spring Security | JWT | JPA | Hibernate | PostgreSQL
 
-**Key Features:**
-- 🔐 JWT authentication
-- 👥 Role-based access
-- 🔎 Search and pagination
-- 🏗️ Controller-Service-Repository architecture
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `PostgreSQL`
+
+### ✨ Key Features
+
+- 🔐 JWT-based authentication
+- 👥 Role-based access control
+- 🔎 Job search functionality
+- 📄 Pagination
+- 🏗️ Controller → Service → Repository architecture
 - 🗄️ PostgreSQL database integration
+- 🔒 Spring Security integration
+
+---
+
+## 🏗️ Backend Concepts I'm Working With
+
+```text
+Java
+  │
+  ├── OOP
+  ├── Collections
+  ├── Streams & Lambdas
+  └── Exception Handling
+       │
+       ▼
+Spring Boot
+  │
+  ├── REST APIs
+  ├── Dependency Injection
+  ├── Spring Security
+  ├── Validation
+  └── Configuration
+       │
+       ▼
+Microservices
+  │
+  ├── Service-to-Service Communication
+  ├── Azure Service Bus
+  ├── Topics & Subscriptions
+  ├── Publish / Consume
+  └── Asynchronous Communication
+       │
+       ▼
+Database
+  │
+  ├── SQL
+  ├── PostgreSQL
+  ├── JPA / Hibernate
+  └── Data Optimization
+```
 
 ---
 
 ## 🎯 Currently Learning
 
-- ☕ Advanced Java
-- 🌱 Spring Boot
-- 🧩 Microservices
-- 📨 Messaging & asynchronous communication
-- 🗄️ SQL & database optimization
-- 🔐 Spring Security
-- 🏗️ Backend system design
-- 🧠 Data Structures & Algorithms
+- ☕ **Advanced Java**
+- 🌱 **Spring Boot**
+- 🧩 **Microservices Architecture**
+- 📨 **Messaging & Asynchronous Communication**
+- 🗄️ **SQL & Database Optimization**
+- 🔐 **Spring Security & JWT**
+- 🏗️ **Backend System Design**
+- 🧠 **Data Structures & Algorithms**
+- ⚡ **Performance & Scalability Concepts**
 
 ---
 
-## 🎯 What I'm Looking For
+## 📊 GitHub Focus
 
-I'm currently interested in:
+- 🔹 **Primary Language:** Java
+- 🔹 **Backend:** Spring Boot & REST APIs
+- 🔹 **Architecture:** Microservices
+- 🔹 **Messaging:** Azure Service Bus
+- 🔹 **Database:** PostgreSQL & SQL
+- 🔹 **Current Focus:** Backend Development & System Design
+- 🔹 **Projects:** Java/Spring Boot applications and backend-focused projects
+
+---
+
+## 💼 What I'm Looking For
+
+### 🔍 Open Opportunities
 
 - 💻 Java Backend Developer roles
 - 🌱 Spring Boot Developer roles
 - 🧩 Java Microservices opportunities
-- 👨‍💻 Software Engineer roles focused on backend development
+- 👨‍💻 Software Engineer — Backend roles
 
-I'm interested in building reliable backend applications, solving real-world engineering problems, and continuously improving my understanding of scalable enterprise systems.
+### 🤝 Collaboration Interests
+
+- 💻 Backend application development
+- 🧩 Microservices and distributed systems
+- 🔗 API development
+- 🗄️ Database and SQL optimization
+- 🏗️ System design
+- 🚀 Building practical Java/Spring Boot projects
+
+---
+
+## 📚 My Development Journey
+
+```text
+Full Stack Foundations
+        ↓
+Java & Backend Development
+        ↓
+Spring Boot & REST APIs
+        ↓
+SQL & PostgreSQL
+        ↓
+Microservices
+        ↓
+Azure Service Bus & Messaging
+        ↓
+Spring Security
+        ↓
+System Design & Distributed Systems
+        ↓
+🚀 Continuous Learning
+```
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **Email:** navaderohini@gmail.com
+I'm always interested in connecting with developers, recruiters and people working in the Java/backend ecosystem.
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rohini-navade-03882b225)
-
-💻 **GitHub:** [Explore my repositories](https://github.com/Rohininavade)
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/rohini-navade-03882b225) |
+| 📧 Email | [navaderohini@gmail.com](mailto:navaderohini@gmail.com) |
+| 💻 GitHub | [Explore my repositories](https://github.com/Rohininavade) |
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌟 Fun Facts
 
-💡 Feel free to explore my repositories and projects.
+- 🎯 I enjoy breaking down complex backend concepts into simple ideas.
+- ☕ Java and Spring Boot are currently my main areas of focus.
+- 🧩 I enjoy understanding how different microservices communicate behind the scenes.
+- 🐞 Debugging an issue and finally finding the root cause is surprisingly satisfying!
+- 📚 Always learning something new about backend development.
+- 🚀 Working towards becoming a strong Java Backend Engineer.
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you find any of my projects useful or interesting, feel free to ⭐ **star the repository**.
+
+Thanks for stopping by!
+
+### Happy Coding 🚀☕
