@@ -7,9 +7,11 @@
   <a href="https://www.linkedin.com/in/rohini-navade-03882b225">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    &nbsp;&nbsp;
   <a href="mailto:navaderohini@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    &nbsp;&nbsp;
   <a href="https://github.com/Rohininavade">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
